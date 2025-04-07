@@ -142,7 +142,6 @@ Tables of individual exited employees
 
 
 ## Key Takeaways
-#### This dashboard demonstrates:
 *Effective data storytelling for HR decision-makers*  
 *Use of DAX to derive insights beyond raw data*  
 *Proper data modelling using star schema*  
